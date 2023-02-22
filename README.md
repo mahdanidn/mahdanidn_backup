@@ -1,6 +1,6 @@
 ### Hi, I'm Mahdani 👋
 
-[![wakatime](https://wakatime.com/badge/user/f57b1ba4-6b56-4ad8-9d93-97532ced3e7a.svg)](https://wakatime.com/@f57b1ba4-6b56-4ad8-9d93-97532ced3e7a)
+[![wakatime](https://wakatime.com/badge/user/073f8629-b86a-4d2a-a23b-38b5914b87a9.svg)](https://wakatime.com/@073f8629-b86a-4d2a-a23b-38b5914b87a9)
 
 <a href="https://github.com/mahdanidn"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=mahdanidn&show_icons=true&count_private=true&hide=issues,stars&cache_seconds=86400&theme=vue-dark&custom_title=Github%20Stats" align="right" height="150" /></a>
 
