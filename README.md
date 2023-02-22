@@ -6,3 +6,5 @@
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdanidn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/mahdanidn"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mahdanidn&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
