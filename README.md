@@ -11,4 +11,4 @@
 
 ## Coding Activity
 
-<a href="https://github.com/mahdanidn"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mahdanidn&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
+<a href="https://github.com/mahdanidn"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=danimahdani&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
